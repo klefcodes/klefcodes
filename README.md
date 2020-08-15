@@ -44,7 +44,7 @@ Software Engineer at <a href="https://roybarber.com" target="_blank"><b>RBCUK LT
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klefcodes&layout=compact&show_icons=true&theme=algolia" />
 </a>
 
-**😎Reach me **
+**😎Reach me**
 
 <a href="https://twitter.com/klefcodes">
   <img align="left" alt="klefcodes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
