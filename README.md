@@ -44,6 +44,10 @@ Software Engineer at <a href="https://roybarber.com" target="_blank"><b>RBCUK LT
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klefcodes&layout=compact&show_icons=true" />
 </a>
 
+![GitHub metrics](https://metrics.lecoq.io/klefcodes)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=klefcodes)  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=klefcodes)](https://github.com/klefcodes)
 
 **😎Reach me**
